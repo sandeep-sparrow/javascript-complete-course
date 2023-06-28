@@ -6,4 +6,5 @@ function add(){
     outputResult(currentResult, '');
 }
 
+// event listener
 addBtn.addEventListener('click', add);
